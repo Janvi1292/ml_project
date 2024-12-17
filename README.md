@@ -3,3 +3,7 @@ In this project, we will construct a convolutional neural network (CNN) that wil
 
 
 Note: Please use TensorFlow (integrated with Keras) to build your CNN model. Within the TensorFlow package, Keras is integrated. Keras was first created as a stand-alone high-level neural networks API, but it was eventually incorporated into TensorFlow as its official high-level deep learning model building and training API. Through this integration, Keras can take advantage of TensorFlow's robust backend, which offers developers an intuitive interface and supports distributed training and efficient computation. With just a few lines of code, Keras makes it easy to design intricate neural networks, making it suitable for both novice and seasoned practitioners. Although Keras is compatible with other backends, its integration with TensorFlow has made it the TensorFlow ecosystem's default API.
+
+**Medium Post Link:**
+
+https://medium.com/@jprajapati_18583/constructing-a-convolutional-neural-network-for-dog-and-cat-cat-classification-3d596899cbb1
